@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello new GIT test");
 
         System.out.println("2nd commit master branch");
+
+        System.out.println("Critical bug fixed");
     }
 }
